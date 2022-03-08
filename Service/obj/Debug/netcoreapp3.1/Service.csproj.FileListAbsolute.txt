@@ -1,0 +1,15 @@
+C:\Users\Abdul\source\repos\AngularProject1\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Abdul\source\repos\AngularProject1\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Abdul\source\repos\AngularProject1\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Abdul\source\repos\AngularProject1\Service\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Abdul\source\repos\AngularProject1\Service\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Abdul\source\repos\AngularProject1\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\Abdul\source\repos\AngularProject1\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Abdul\source\repos\AngularProject1\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Abdul\source\repos\AngularProject1\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\Abdul\source\repos\AngularProject1\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Abdul\source\repos\AngularProject1\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Abdul\source\repos\AngularProject1\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.json
+C:\Users\Abdul\source\repos\AngularProject1\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.dev.json
+C:\Users\Abdul\source\repos\AngularProject1\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\source\repos\AngularProject1\Service\obj\Debug\netcoreapp3.1\Service.genruntimeconfig.cache

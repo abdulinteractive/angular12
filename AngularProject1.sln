@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularProject1", "AngularProject1\AngularProject1.csproj", "{E62B6A85-B465-4805-AA09-462DD82411FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{E2963799-C856-4B3D-89D6-5D2EF54D6DFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{6AE898D7-D800-4BAC-A8BC-AE84C09B8472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E62B6A85-B465-4805-AA09-462DD82411FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62B6A85-B465-4805-AA09-462DD82411FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62B6A85-B465-4805-AA09-462DD82411FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62B6A85-B465-4805-AA09-462DD82411FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2963799-C856-4B3D-89D6-5D2EF54D6DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2963799-C856-4B3D-89D6-5D2EF54D6DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2963799-C856-4B3D-89D6-5D2EF54D6DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2963799-C856-4B3D-89D6-5D2EF54D6DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE898D7-D800-4BAC-A8BC-AE84C09B8472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE898D7-D800-4BAC-A8BC-AE84C09B8472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE898D7-D800-4BAC-A8BC-AE84C09B8472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE898D7-D800-4BAC-A8BC-AE84C09B8472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6472C6F8-ACD2-4535-B030-2A8EDBF71308}
+	EndGlobalSection
+EndGlobal
